@@ -1,4 +1,4 @@
-# Cateen-Management-System-
+# Canteen-Management-System-
 Components of the Code:
 
 Main Functionality: The code provides a menu-driven interface for managing customer accounts and items in the canteen.
