@@ -1,5 +1,6 @@
 # Cateen-Management-System-
 Components of the Code:
+
 Main Functionality: The code provides a menu-driven interface for managing customer accounts and items in the canteen.
 
 Account Class: Manages customer accounts including creation, display, and reporting.
